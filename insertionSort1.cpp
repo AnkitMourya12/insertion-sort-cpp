@@ -23,7 +23,7 @@ int main()
 		}
 		a[j+1]=k;
 	}
-	cout<<"^^^^^^^^^^^^^^^^^^^^^^^^"<<endl;;
+	cout<<"after sorting^^^^^^^^^^^^^^^^^^^^^^^^"<<endl;;
 	
 	for(i=0;i<N;i++)
 	{
